@@ -41,13 +41,6 @@ def kill_process():
     #endes process
     cmd = "pkill picam"
     subprocess.run(cmd, shell=True)    
-    
-    
-
-
-#runs the init fuction
-
-
 
 while True:
     
